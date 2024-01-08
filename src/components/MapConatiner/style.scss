@@ -1,0 +1,18 @@
+.map {
+  width: 1000px;
+  height: 600px;
+}
+
+.popup {
+  width: 120;
+  height: 200px;
+
+  &__photo {
+    width: 120px;
+    height: 100px;
+  }
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  width: 150px;
+}

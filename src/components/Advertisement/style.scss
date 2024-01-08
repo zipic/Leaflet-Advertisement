@@ -1,0 +1,28 @@
+.advertisement-container {
+  width: 250px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.advertisement {
+  width: 200px;
+  border-left: 2px solid;
+}
+
+.card {
+  width: 230px;
+  height: 350px;
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 12px;
+
+  &__image {
+    width: 200px;
+    height: 200px;
+  }
+}
