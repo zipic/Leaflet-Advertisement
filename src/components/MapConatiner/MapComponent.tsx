@@ -15,7 +15,7 @@ type MapComponentProps = {
 };
 
 const customMarkerIcon = new L.Icon({
-  iconUrl: '/img/icons/marker.svg',
+  iconUrl: `${process.env.PUBLIC_URL}/img/icons/marker.svg`,
   iconSize: [32, 32],
   iconAnchor: [16, 32],
   popupAnchor: [0, -32],

@@ -9,7 +9,7 @@ export const Header = () => {
   }
   return (
     <div className="header">
-      <img className="header__logo" src="/img/icons/logo.svg" alt="logo" />
+      <img className="header__logo" src={`${process.env.PUBLIC_URL}/img/icons/logo.svg`} alt="logo" />
       <button 
         className="header__add"
         onClick={() => handleShowMenu()}

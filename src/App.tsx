@@ -8,7 +8,7 @@ import AddStore from './components/AddStore/AddStore';
 function App() {
   return (
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename="/leaflet-advertisement">
     <div className="App">
       <Header/>
       <Routes>
