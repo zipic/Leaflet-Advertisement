@@ -1,10 +1,9 @@
-Leaflet Advertisement
+# Leaflet Advertisement
 
 Leaflet Advertisement is a web application that leverages React, Leaflet, Redux, TypeScript, Node.js, and MySQL to display and manage markers for advertisements on an interactive map.
 
-view demoLink https://zipic.github.io/leaflet-advertisement
 
-Technologies Used
+# Technologies Used
 
 React,
 React-Leaflet,
@@ -13,7 +12,7 @@ TypeScript,
 Node.js,
 MySQL,
 
-Features
+# Features
 
 Displaying markers on the map to represent advertisements.
 Adding new advertisements with title, store, photo, and location information.
@@ -22,24 +21,21 @@ Getting Started
 Clone the Repository:
 
 
-Copy code
+# Copy code
 git clone https://github.com/your-username/leaflet-advertisement.git
 cd leaflet-advertisement
-Install Dependencies:
 
+# Install Dependencies:
 
-Copy code
 npm install
 Run the Development Server:
 
-bash
-Copy code
 npm start
 The application will be available at http://localhost:3000.
 
-Server Setup:
+# Server Setup:
 
-Set up a MySQL server and configure the connection details in the server.js file.
-Create a database named advertisement with the products table.
+npm instal next.js
+npm install mysql
 
-
+node server.js
