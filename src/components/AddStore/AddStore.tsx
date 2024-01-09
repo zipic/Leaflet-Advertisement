@@ -35,7 +35,7 @@ const AddStore = () => {
 
     try {
       await axios.post('http://localhost:3001/add', newData);
-      navigate('/add');
+      navigate('/');
     } catch (error) {
       console.error('Error adding data:', error);
     }
