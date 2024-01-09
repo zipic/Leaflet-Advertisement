@@ -1,0 +1,27 @@
+.main {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  gap: 10px;
+}
+
+.map {
+  width: 1000px;
+  height: 600px;
+  border: 3px solid gray;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.popup {
+  width: 120;
+  height: 200px;
+}
+.popup__photo {
+  width: 120px;
+  height: 100px;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  width: 150px;
+}/*# sourceMappingURL=style.css.map */
