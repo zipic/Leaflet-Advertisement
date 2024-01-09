@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Мягкий куток",
+    "store": "Три медведі",
+    "photo": "https://i.imgur.com/duYKocg.png",
+    "latitude": 50.444907314878485, 
+    "longitude": 30.53955700517237
+  },
+  {
+    "id": 2,
+    "title": "Шкріряний диван",
+    "store": "Всі меблі тут",
+    "photo": "https://i.imgur.com/MfJRmUm.png",
+    "latitude": 46.46789412008124, 
+    "longitude": 30.716580760479655
+  },
+  {
+    "id": 3,
+    "title": "Диван",
+    "store": "Мягкий диван",
+    "photo": "https://i.imgur.com/jg41dJf.png",
+    "latitude": 49.8429, 
+    "longitude": 24.0315
+  },
+  {
+    "id": 4,
+    "title": "Передпокій",
+    "store": "Дубок",
+    "photo": "https://i.imgur.com/KYE3Agp.png",
+    "latitude": 50.05687312680659,
+    "longitude" : 23.968700719296827
+  },
+  {
+    "id": 5,
+    "title": "Комод",
+    "store": "МебельОК",
+    "photo": "https://i.imgur.com/p9bbAu8.png",
+    "latitude": 49.980137930587404,
+    "longitude": 24.078218472565325
+  },
+  {
+    "id": 6,
+    "title": "Пуф",
+    "store": "Ідеа",
+    "photo": "https://i.imgur.com/34JVGp6.png",
+    "latitude": 49.798848078529765,
+    "longitude": 30.116832594788427
+  },
+  {
+    "id": 7,
+    "title": "Мягке крісло",
+    "store": "Дім меблів",
+    "photo": "https://i.imgur.com/GgK4L1v.png",
+    "latitude": 50.618914917802044,
+    "longitude": 26.250000826745488
+  }
+]

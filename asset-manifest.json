@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leaflet-advertisement/static/css/main.63b0d527.css",
+    "main.js": "/leaflet-advertisement/static/js/main.1908dfa0.js",
+    "static/js/787.5a30873e.chunk.js": "/leaflet-advertisement/static/js/787.5a30873e.chunk.js",
+    "index.html": "/leaflet-advertisement/index.html",
+    "main.63b0d527.css.map": "/leaflet-advertisement/static/css/main.63b0d527.css.map",
+    "main.1908dfa0.js.map": "/leaflet-advertisement/static/js/main.1908dfa0.js.map",
+    "787.5a30873e.chunk.js.map": "/leaflet-advertisement/static/js/787.5a30873e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63b0d527.css",
+    "static/js/main.1908dfa0.js"
+  ]
+}
